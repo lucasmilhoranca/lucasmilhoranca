@@ -3,6 +3,7 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...-->
  <h1 align="center">Hi 👋, I'm Lucas Milhorança</h1>
+ <h3 align="center">Studing Information Systems</h3>
 
 - 🌱 I’m currently learning **MongoDB** <img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />, **Javascript** <img width='30' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> and **Docker**  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 
