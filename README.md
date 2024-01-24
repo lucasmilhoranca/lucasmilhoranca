@@ -119,7 +119,7 @@
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> Visual Studio Code
+        <img width="12" /> VS Code
       </td>
     </tr>
   </tbody>
