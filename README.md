@@ -57,7 +57,7 @@
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"
           height="40"
-          alt="express logo"
+          alt="fastify logo"
         />
         <img width="12" /> Fastify
       </td>          
@@ -112,7 +112,15 @@
           alt="postgresql logo"
         />
         <img width="12" /> Postgresql
-      </td>
+      </td> 
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+          height="40"
+          alt="mysql logo"
+        />
+        <img width="12" /> MySQL
+      </td> 
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
