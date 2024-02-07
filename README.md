@@ -53,6 +53,14 @@
         />
         <img width="12" /> Express
       </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Fastify
+      </td>          
     </tr>
     <tr>
       <td>
@@ -62,6 +70,14 @@
           alt="react logo"
         />
         <img width="12" /> React
+      </td>
+     <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"           
+          height="40"
+          alt="tailwindcss logo"
+        />
+        <img width="12" /> Tailwindcss
       </td>
       <td>
         <img
