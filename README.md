@@ -115,11 +115,11 @@
       </td> 
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
           height="40"
-          alt="mysql logo"
+          alt="golang-logo"
         />
-        <img width="12" /> MySQL
+        <img width="12" /> Go
       </td> 
       <td>
         <img
