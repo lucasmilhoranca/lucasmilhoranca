@@ -47,11 +47,11 @@
       </td>
       <td>
         <img
-          src="https://skillicons.dev/icons?i=express"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
           height="40"
-          alt="express logo"
+          alt="spring logo"
         />
-        <img width="12" /> Express
+        <img width="12" /> Spring
       </td>
       <td>
         <img
@@ -139,11 +139,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> VS Code
+        <img width="12" /> Java
       </td>
     </tr>
   </tbody>
