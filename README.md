@@ -4,7 +4,7 @@
 - ⚡ Fun fact: ...-->
  <h1 align="center">Hi 👋, I'm Lucas Milhorança</h1>
 
-- 🌱 I’m currently learning **Go** <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang-logo"/>, **Typescript** <img width='30' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> and **Docker**  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+- 🌱 I’m currently learning **Go** <img width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang-logo"/> and **Docker**  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 
 - 📫 How to reach me: **lucasmilhoranca@outlook.com**
 
