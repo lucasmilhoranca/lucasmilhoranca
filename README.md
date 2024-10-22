@@ -60,7 +60,15 @@
           alt="fastify logo"
         />
         <img width="12" /> Fastify
-      </td>          
+      </td>
+     <td>          
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+          height="40"
+          alt="nest logo"
+        />
+        <img width="12" /> NestJs
+      </td>
     </tr>
     <tr>
       <td>
@@ -81,15 +89,15 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          src="https://skillicons.dev/icons?i=kafka"
           height="40"
-          alt="git logo"
+          alt="kafka logo"
         />
-        <img width="12" /> Git
+        <img width="12" /> Kafka
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          src="https://skillicons.dev/icons?i=docker"
           height="40"
           alt="docker logo"
         />
@@ -102,6 +110,14 @@
           alt="ansic logo"
         />
         <img width="12" /> C
+      </td>
+     <td>          
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
+          height="40"
+          alt="kubernetes logo"
+        />
+        <img width="12" /> Kubernetes
       </td>
     </tr>
     <tr>
@@ -144,6 +160,14 @@
           alt="vscode logo"
         />
         <img width="12" /> Java
+      </td>
+     <td>          
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"
+          height="40"
+          alt="rabbitmq logo"
+        />
+        <img width="12" /> RabbitMQ
       </td>
     </tr>
   </tbody>
