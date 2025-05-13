@@ -23,14 +23,6 @@
     <tr>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          height="40"
-          alt="javascript logo"
-        />
-        <img width="12" /> Javascript
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
           height="40"
           alt="typescript logo"
@@ -53,21 +45,29 @@
         />
         <img width="12" /> Spring
       </td>
-      <td>
+<!--       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"
           height="40"
           alt="fastify logo"
         />
         <img width="12" /> Fastify
-      </td>
+      </td> -->
      <td>          
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
-          height="40"
-          alt="nest logo"
+        <img 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+         height="40"
+         alt="laravel logo"
         />
-        <img width="12" /> NestJs
+        <img width="12" /> Laravel
+     </td>
+     <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+          height="40"
+          alt="php logo"
+        />
+        <img width="12" /> Php
       </td>
     </tr>
     <tr>
@@ -111,14 +111,14 @@
         />
         <img width="12" /> C
       </td>
-     <td>          
+<!--      <td>          
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
           height="40"
           alt="kubernetes logo"
         />
         <img width="12" /> Kubernetes
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td>
@@ -153,14 +153,14 @@
         />
         <img width="12" /> MongoDB
       </td>
-      <td>
+<!--       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
           height="40"
           alt="vscode logo"
         />
         <img width="12" /> Java
-      </td>
+      </td> -->
      <td>          
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"
